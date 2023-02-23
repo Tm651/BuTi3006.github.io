@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-22T12:18:02.497Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="qqI379OU8oqyuSXHK5Us" version="20.8.22" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-23T07:56:34.735Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="ncPsBl_ZlrdNrjHwzFi3" version="20.8.23" type="github">
   <diagram name="Seite-1" id="G6BYVdzRIYJGMbFm3Kd0">
     <mxGraphModel dx="1050" dy="581" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -46,23 +46,51 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="G6BYVdzRIYJGMbFm3Kd0-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="gYue3sW4FeC9hepqLlTS-4" target="G6BYVdzRIYJGMbFm3Kd0-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="gYue3sW4FeC9hepqLlTS-4" value="Europäischen Norm &lt;br&gt;&lt;b&gt;(EN) 301 549 &lt;/b&gt;&lt;br&gt;(Abschnitt 9 Web)&lt;br&gt;Stand: 10/2021" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="240" y="440" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="gYue3sW4FeC9hepqLlTS-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=11;" parent="1" source="gYue3sW4FeC9hepqLlTS-5" target="gYue3sW4FeC9hepqLlTS-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="G6BYVdzRIYJGMbFm3Kd0-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gYue3sW4FeC9hepqLlTS-5" target="G6BYVdzRIYJGMbFm3Kd0-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="gYue3sW4FeC9hepqLlTS-5" value="Barrierefreie-Informationstechnik-Verordnung &lt;br&gt;&lt;b&gt;BITV 2.0&lt;br&gt;&lt;/b&gt;&amp;nbsp;Stand: 25. Mai 2019" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="40" y="600" width="160" height="80" as="geometry" />
+          <mxGeometry x="40" y="640" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="gYue3sW4FeC9hepqLlTS-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=11;" parent="1" source="gYue3sW4FeC9hepqLlTS-6" target="gYue3sW4FeC9hepqLlTS-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="gYue3sW4FeC9hepqLlTS-6" value="Gesetz zur Gleichstellung von Menschen mit Behinderungen&lt;br&gt;&lt;b&gt;BGG&lt;/b&gt;&lt;br&gt;Stand: 07/2018" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="440" y="600" width="160" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="G6BYVdzRIYJGMbFm3Kd0-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="gYue3sW4FeC9hepqLlTS-7" target="gYue3sW4FeC9hepqLlTS-15">
+        <mxCell id="G6BYVdzRIYJGMbFm3Kd0-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gYue3sW4FeC9hepqLlTS-6" target="G6BYVdzRIYJGMbFm3Kd0-4">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="G6BYVdzRIYJGMbFm3Kd0-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gYue3sW4FeC9hepqLlTS-6" target="G6BYVdzRIYJGMbFm3Kd0-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gYue3sW4FeC9hepqLlTS-6" value="Gesetz zur Gleichstellung von Menschen mit Behinderungen&lt;br&gt;&lt;b&gt;BGG&lt;/b&gt;&lt;br&gt;Stand: 07/2018" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="440" y="640" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="G6BYVdzRIYJGMbFm3Kd0-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" parent="1" source="gYue3sW4FeC9hepqLlTS-7" target="gYue3sW4FeC9hepqLlTS-15" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="G6BYVdzRIYJGMbFm3Kd0-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gYue3sW4FeC9hepqLlTS-7" target="G6BYVdzRIYJGMbFm3Kd0-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="560" y="610" />
+              <mxPoint x="720" y="610" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G6BYVdzRIYJGMbFm3Kd0-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="gYue3sW4FeC9hepqLlTS-7" target="gYue3sW4FeC9hepqLlTS-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="560" y="610" />
+              <mxPoint x="120" y="610" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="gYue3sW4FeC9hepqLlTS-7" value="&lt;b&gt;Richtlinie (EU) 2019/882&lt;/b&gt; des Europäischen Parlaments und des Rates Stand: 17. April 2019&lt;br&gt;&lt;b&gt;European Accessibility Act (EAA)&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="480" y="370" width="160" height="120" as="geometry" />
@@ -81,21 +109,21 @@
         </mxCell>
         <mxCell id="gYue3sW4FeC9hepqLlTS-10" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="40" y="720" as="sourcePoint" />
-            <mxPoint x="800" y="720" as="targetPoint" />
+            <mxPoint x="40" y="760" as="sourcePoint" />
+            <mxPoint x="800" y="760" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="gYue3sW4FeC9hepqLlTS-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=11;" parent="1" source="gYue3sW4FeC9hepqLlTS-11" target="gYue3sW4FeC9hepqLlTS-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="gYue3sW4FeC9hepqLlTS-11" value="Sächsisches Inklusionsgesetz&lt;br&gt;&lt;b&gt;SächsInklusG&amp;nbsp;&lt;/b&gt;&lt;br&gt;Stand: 2. Juli 2019" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="40" y="760" width="160" height="80" as="geometry" />
+          <mxGeometry x="40" y="800" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="gYue3sW4FeC9hepqLlTS-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=11;" parent="1" source="gYue3sW4FeC9hepqLlTS-12" target="gYue3sW4FeC9hepqLlTS-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="gYue3sW4FeC9hepqLlTS-12" value="Barrierefreie-Websites-Gesetz &lt;br&gt;&lt;b&gt;BfWebG&lt;/b&gt;&lt;br&gt;Stand: 10. April 2019" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="440" y="760" width="160" height="80" as="geometry" />
+          <mxGeometry x="440" y="800" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="gYue3sW4FeC9hepqLlTS-13" value="&lt;b&gt;Zeitplan&lt;/b&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="670" y="264" width="140" height="310" as="geometry" />
@@ -134,26 +162,45 @@
           <mxGeometry x="-15" y="380" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gYue3sW4FeC9hepqLlTS-38" value="&lt;b&gt;&lt;font style=&quot;font-size: 13px; background-color: rgb(255, 255, 153);&quot;&gt;Bundesweit&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;rotation=-90;" parent="1" vertex="1">
-          <mxGeometry x="-30" y="625" width="100" height="30" as="geometry" />
+          <mxGeometry x="-30" y="665" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gYue3sW4FeC9hepqLlTS-39" value="&lt;b&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 153, 153);&quot;&gt;Landesweit&lt;/span&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;rotation=-90;" parent="1" vertex="1">
-          <mxGeometry x="-25" y="785" width="90" height="30" as="geometry" />
+          <mxGeometry x="-25" y="825" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="G6BYVdzRIYJGMbFm3Kd0-1" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="G6BYVdzRIYJGMbFm3Kd0-1" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="640" y="280" as="sourcePoint" />
             <mxPoint x="640" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="G6BYVdzRIYJGMbFm3Kd0-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="G6BYVdzRIYJGMbFm3Kd0-3" target="gYue3sW4FeC9hepqLlTS-11">
+        <mxCell id="G6BYVdzRIYJGMbFm3Kd0-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="G6BYVdzRIYJGMbFm3Kd0-3" target="gYue3sW4FeC9hepqLlTS-11" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="320" y="800" />
+              <mxPoint x="320" y="840" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="G6BYVdzRIYJGMbFm3Kd0-3" value="&lt;b&gt;ISO 9241-11&lt;/b&gt;&lt;br&gt;Ergonomie der Mensch-System-Interaktion Gebrauchstauglichkeit&lt;br&gt;Stand: 11/2018" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="600" width="160" height="80" as="geometry" />
+        <mxCell id="G6BYVdzRIYJGMbFm3Kd0-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="G6BYVdzRIYJGMbFm3Kd0-3" target="gYue3sW4FeC9hepqLlTS-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="G6BYVdzRIYJGMbFm3Kd0-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="G6BYVdzRIYJGMbFm3Kd0-3" target="gYue3sW4FeC9hepqLlTS-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="G6BYVdzRIYJGMbFm3Kd0-3" value="&lt;b&gt;ISO 9241-11&lt;/b&gt;&lt;br&gt;Ergonomie der Mensch-System-Interaktion Gebrauchstauglichkeit&lt;br&gt;Stand: 11/2018" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="640" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="G6BYVdzRIYJGMbFm3Kd0-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="G6BYVdzRIYJGMbFm3Kd0-4" target="gYue3sW4FeC9hepqLlTS-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="720" y="840" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G6BYVdzRIYJGMbFm3Kd0-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="G6BYVdzRIYJGMbFm3Kd0-4" target="gYue3sW4FeC9hepqLlTS-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="G6BYVdzRIYJGMbFm3Kd0-4" value="Barrierefreiheitsstärkungs-gesetz &lt;br&gt;&lt;b&gt;(BFSG)&lt;/b&gt;&lt;br&gt;Stand:&amp;nbsp;22. Juli 2021" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="640" width="160" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
